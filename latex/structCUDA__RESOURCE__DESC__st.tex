@@ -1,0 +1,46 @@
+\hypertarget{structCUDA__RESOURCE__DESC__st}{}\section{C\+U\+D\+A\+\_\+\+R\+E\+S\+O\+U\+R\+C\+E\+\_\+\+D\+E\+S\+C\+\_\+st Struct Reference}
+\label{structCUDA__RESOURCE__DESC__st}\index{C\+U\+D\+A\+\_\+\+R\+E\+S\+O\+U\+R\+C\+E\+\_\+\+D\+E\+S\+C\+\_\+st@{C\+U\+D\+A\+\_\+\+R\+E\+S\+O\+U\+R\+C\+E\+\_\+\+D\+E\+S\+C\+\_\+st}}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+C\+Uresourcetype {\bfseries res\+Type}\hypertarget{structCUDA__RESOURCE__DESC__st_aa654d711d4f0c699fe2a4d5967af93d1}{}\label{structCUDA__RESOURCE__DESC__st_aa654d711d4f0c699fe2a4d5967af93d1}
+
+\item 
+\begin{tabbing}
+xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=\kill
+union \{\\
+\>struct \{\\
+\>\>CUarray {\bfseries hArray}\\
+\>\} {\bfseries array}\\
+\>struct \{\\
+\>\>CUmipmappedArray {\bfseries hMipmappedArray}\\
+\>\} {\bfseries mipmap}\\
+\>struct \{\\
+\>\>CUdeviceptr {\bfseries devPtr}\\
+\>\>CUarray\_format {\bfseries format}\\
+\>\>unsigned {\bfseries numChannels}\\
+\>\>size\_t {\bfseries sizeInBytes}\\
+\>\} {\bfseries linear}\\
+\>struct \{\\
+\>\>CUdeviceptr {\bfseries devPtr}\\
+\>\>CUarray\_format {\bfseries format}\\
+\>\>unsigned {\bfseries numChannels}\\
+\>\>size\_t {\bfseries width}\\
+\>\>size\_t {\bfseries height}\\
+\>\>size\_t {\bfseries pitchInBytes}\\
+\>\} {\bfseries pitch2D}\\
+\>struct \{\\
+\>\>int {\bfseries reserved} \mbox{[}32\mbox{]}\\
+\>\} {\bfseries reserved}\\
+\} {\bfseries res}\hypertarget{structCUDA__RESOURCE__DESC__st_a70883ed0ba3984c4a78da71b182486a2}{}\label{structCUDA__RESOURCE__DESC__st_a70883ed0ba3984c4a78da71b182486a2}
+\\
+
+\end{tabbing}\item 
+unsigned {\bfseries flags}\hypertarget{structCUDA__RESOURCE__DESC__st_a3894ce042867d22801bfab9bf563208d}{}\label{structCUDA__RESOURCE__DESC__st_a3894ce042867d22801bfab9bf563208d}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+cuda\+Warp-\/fisheye.\+cpp\end{DoxyCompactItemize}

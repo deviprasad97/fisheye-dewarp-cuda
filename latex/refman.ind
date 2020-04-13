@@ -1,0 +1,551 @@
+\begin{theindex}
+
+  \item {\+\_\+\+G\+\_\+fpos64\+\_\+t}, \hyperpage{63}
+  \item {\+\_\+\+G\+\_\+fpos\+\_\+t}, \hyperpage{64}
+  \item {\+\_\+\+I\+O\+\_\+\+F\+I\+LE}, \hyperpage{65}
+  \item {\+\_\+\+I\+O\+\_\+cookie\+\_\+io\+\_\+functions\+\_\+t}, 
+		\hyperpage{64}
+  \item {\+\_\+\+I\+O\+\_\+marker}, \hyperpage{66}
+  \item {\+\_\+\+\_\+cuda\+Occupancy\+B2\+D\+Helper}, \hyperpage{17}
+  \item {\+\_\+\+\_\+fat\+Bin\+C\+\_\+\+Wrapper\+\_\+t}, \hyperpage{17}
+  \item {\+\_\+\+\_\+fsid\+\_\+t}, \hyperpage{17}
+  \item {\+\_\+\+\_\+iseqsig\+\_\+type$<$ class $>$}, \hyperpage{18}
+  \item {\+\_\+\+\_\+iseqsig\+\_\+type$<$ double $>$}, \hyperpage{18}
+  \item {\+\_\+\+\_\+iseqsig\+\_\+type$<$ float $>$}, \hyperpage{18}
+  \item {\+\_\+\+\_\+iseqsig\+\_\+type$<$ long double $>$}, 
+		\hyperpage{18}
+  \item {\+\_\+\+\_\+locale\+\_\+struct}, \hyperpage{19}
+  \item {\+\_\+\+\_\+mbstate\+\_\+t}, \hyperpage{19}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ char $>$}, 
+		\hyperpage{19}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ char1 $>$}, 
+		\hyperpage{19}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ char2 $>$}, 
+		\hyperpage{20}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ char4 $>$}, 
+		\hyperpage{20}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ float $>$}, 
+		\hyperpage{20}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ float1 $>$}, 
+		\hyperpage{20}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ float2 $>$}, 
+		\hyperpage{21}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ float4 $>$}, 
+		\hyperpage{21}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ int $>$}, 
+		\hyperpage{21}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ int1 $>$}, 
+		\hyperpage{21}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ int2 $>$}, 
+		\hyperpage{22}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ int4 $>$}, 
+		\hyperpage{22}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ long long $>$}, 
+		\hyperpage{22}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ longlong1 $>$}, 
+		\hyperpage{22}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ longlong2 $>$}, 
+		\hyperpage{23}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ short $>$}, 
+		\hyperpage{23}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ short1 $>$}, 
+		\hyperpage{23}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ short2 $>$}, 
+		\hyperpage{23}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ short4 $>$}, 
+		\hyperpage{24}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ signed char $>$}, 
+		\hyperpage{24}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ uchar1 $>$}, 
+		\hyperpage{24}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ uchar2 $>$}, 
+		\hyperpage{24}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ uchar4 $>$}, 
+		\hyperpage{25}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ uint1 $>$}, 
+		\hyperpage{25}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ uint2 $>$}, 
+		\hyperpage{25}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ uint4 $>$}, 
+		\hyperpage{25}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ ulonglong1 $>$}, 
+		\hyperpage{26}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ ulonglong2 $>$}, 
+		\hyperpage{26}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ unsigned $>$}, 
+		\hyperpage{26}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ unsigned char $>$}, 
+		\hyperpage{26}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ unsigned long long $>$}, 
+		\hyperpage{27}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ unsigned short $>$}, 
+		\hyperpage{27}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ ushort1 $>$}, 
+		\hyperpage{27}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ ushort2 $>$}, 
+		\hyperpage{27}
+  \item {\+\_\+\+\_\+nv\+\_\+isurf\+\_\+trait$<$ ushort4 $>$}, 
+		\hyperpage{28}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ T $>$}, \hyperpage{28}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ char $>$}, 
+		\hyperpage{28}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ char1 $>$}, 
+		\hyperpage{28}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ char2 $>$}, 
+		\hyperpage{28}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ char4 $>$}, 
+		\hyperpage{29}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ float $>$}, 
+		\hyperpage{29}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ float1 $>$}, 
+		\hyperpage{29}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ float2 $>$}, 
+		\hyperpage{29}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ float4 $>$}, 
+		\hyperpage{30}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ int $>$}, 
+		\hyperpage{30}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ int1 $>$}, 
+		\hyperpage{30}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ int2 $>$}, 
+		\hyperpage{30}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ int4 $>$}, 
+		\hyperpage{31}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ short $>$}, 
+		\hyperpage{31}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ short1 $>$}, 
+		\hyperpage{31}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ short2 $>$}, 
+		\hyperpage{31}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ short4 $>$}, 
+		\hyperpage{32}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ signed char $>$}, 
+		\hyperpage{32}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ uchar1 $>$}, 
+		\hyperpage{32}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ uchar2 $>$}, 
+		\hyperpage{32}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ uchar4 $>$}, 
+		\hyperpage{33}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ uint1 $>$}, 
+		\hyperpage{33}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ uint2 $>$}, 
+		\hyperpage{33}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ uint4 $>$}, 
+		\hyperpage{33}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ unsigned $>$}, 
+		\hyperpage{34}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ unsigned char $>$}, 
+		\hyperpage{34}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ unsigned short $>$}, 
+		\hyperpage{34}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ ushort1 $>$}, 
+		\hyperpage{34}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ ushort2 $>$}, 
+		\hyperpage{35}
+  \item {\+\_\+\+\_\+nv\+\_\+itex\+\_\+trait$<$ ushort4 $>$}, 
+		\hyperpage{35}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ T $>$}, 
+		\hyperpage{35}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ char $>$}, 
+		\hyperpage{35}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ char1 $>$}, 
+		\hyperpage{35}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ char2 $>$}, 
+		\hyperpage{36}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ char3 $>$}, 
+		\hyperpage{36}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ char4 $>$}, 
+		\hyperpage{36}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ float $>$}, 
+		\hyperpage{36}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ float1 $>$}, 
+		\hyperpage{37}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ float2 $>$}, 
+		\hyperpage{37}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ float3 $>$}, 
+		\hyperpage{37}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ float4 $>$}, 
+		\hyperpage{37}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ int $>$}, 
+		\hyperpage{38}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ int1 $>$}, 
+		\hyperpage{38}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ int2 $>$}, 
+		\hyperpage{38}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ int3 $>$}, 
+		\hyperpage{38}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ int4 $>$}, 
+		\hyperpage{39}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ short $>$}, 
+		\hyperpage{39}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ short1 $>$}, 
+		\hyperpage{39}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ short2 $>$}, 
+		\hyperpage{39}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ short3 $>$}, 
+		\hyperpage{40}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ short4 $>$}, 
+		\hyperpage{40}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ signed char $>$}, 
+		\hyperpage{40}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uchar1 $>$}, 
+		\hyperpage{40}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uchar2 $>$}, 
+		\hyperpage{41}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uchar3 $>$}, 
+		\hyperpage{41}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uchar4 $>$}, 
+		\hyperpage{41}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uint1 $>$}, 
+		\hyperpage{41}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uint2 $>$}, 
+		\hyperpage{42}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uint3 $>$}, 
+		\hyperpage{42}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ uint4 $>$}, 
+		\hyperpage{42}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ unsigned $>$}, 
+		\hyperpage{42}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ unsigned char $>$}, 
+		\hyperpage{43}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ unsigned short $>$}, 
+		\hyperpage{43}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ ushort1 $>$}, 
+		\hyperpage{43}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ ushort2 $>$}, 
+		\hyperpage{43}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ ushort3 $>$}, 
+		\hyperpage{44}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+ret$<$ ushort4 $>$}, 
+		\hyperpage{44}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ T $>$}, 
+		\hyperpage{44}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ char $>$}, 
+		\hyperpage{44}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ char1 $>$}, 
+		\hyperpage{44}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ char2 $>$}, 
+		\hyperpage{45}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ char3 $>$}, 
+		\hyperpage{45}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ char4 $>$}, 
+		\hyperpage{45}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ short1 $>$}, 
+		\hyperpage{45}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ short2 $>$}, 
+		\hyperpage{46}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ short3 $>$}, 
+		\hyperpage{46}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ short4 $>$}, 
+		\hyperpage{46}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ signed char $>$}, 
+		\hyperpage{46}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ signed short $>$}, 
+		\hyperpage{47}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ uchar1 $>$}, 
+		\hyperpage{47}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ uchar2 $>$}, 
+		\hyperpage{47}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ uchar3 $>$}, 
+		\hyperpage{47}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ uchar4 $>$}, 
+		\hyperpage{48}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ unsigned char $>$}, 
+		\hyperpage{48}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ unsigned short $>$}, 
+		\hyperpage{48}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ ushort1 $>$}, 
+		\hyperpage{48}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ ushort2 $>$}, 
+		\hyperpage{49}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ ushort3 $>$}, 
+		\hyperpage{49}
+  \item {\+\_\+\+\_\+nv\+\_\+tex2dgather\+\_\+rmnf\+\_\+ret$<$ ushort4 $>$}, 
+		\hyperpage{49}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+cast$<$ T $>$}, 
+		\hyperpage{49}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ char $>$}, 
+		\hyperpage{50}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ char1 $>$}, 
+		\hyperpage{50}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ char2 $>$}, 
+		\hyperpage{50}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ char4 $>$}, 
+		\hyperpage{50}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ float $>$}, 
+		\hyperpage{51}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ float1 $>$}, 
+		\hyperpage{51}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ float2 $>$}, 
+		\hyperpage{51}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ float4 $>$}, 
+		\hyperpage{51}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ int $>$}, 
+		\hyperpage{52}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ int1 $>$}, 
+		\hyperpage{52}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ int2 $>$}, 
+		\hyperpage{52}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ int4 $>$}, 
+		\hyperpage{52}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ short $>$}, 
+		\hyperpage{53}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ short1 $>$}, 
+		\hyperpage{53}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ short2 $>$}, 
+		\hyperpage{53}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ short4 $>$}, 
+		\hyperpage{53}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ signed char $>$}, 
+		\hyperpage{54}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ uchar1 $>$}, 
+		\hyperpage{54}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ uchar2 $>$}, 
+		\hyperpage{54}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ uchar4 $>$}, 
+		\hyperpage{54}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ uint1 $>$}, 
+		\hyperpage{55}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ uint2 $>$}, 
+		\hyperpage{55}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ uint4 $>$}, 
+		\hyperpage{55}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ unsigned $>$}, 
+		\hyperpage{55}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ unsigned char $>$}, 
+		\hyperpage{56}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ unsigned short $>$}, 
+		\hyperpage{56}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ ushort1 $>$}, 
+		\hyperpage{56}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ ushort2 $>$}, 
+		\hyperpage{56}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmet\+\_\+ret$<$ ushort4 $>$}, 
+		\hyperpage{57}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ T $>$}, 
+		\hyperpage{57}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ char $>$}, 
+		\hyperpage{57}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ char1 $>$}, 
+		\hyperpage{57}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ char2 $>$}, 
+		\hyperpage{57}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ char4 $>$}, 
+		\hyperpage{58}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ short $>$}, 
+		\hyperpage{58}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ short1 $>$}, 
+		\hyperpage{58}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ short2 $>$}, 
+		\hyperpage{58}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ short4 $>$}, 
+		\hyperpage{59}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ signed char $>$}, 
+		\hyperpage{59}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ uchar1 $>$}, 
+		\hyperpage{59}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ uchar2 $>$}, 
+		\hyperpage{59}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ uchar4 $>$}, 
+		\hyperpage{60}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ unsigned char $>$}, 
+		\hyperpage{60}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ unsigned short $>$}, 
+		\hyperpage{60}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ ushort1 $>$}, 
+		\hyperpage{60}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ ushort2 $>$}, 
+		\hyperpage{61}
+  \item {\+\_\+\+\_\+nv\+\_\+tex\+\_\+rmnf\+\_\+ret$<$ ushort4 $>$}, 
+		\hyperpage{61}
+  \item {\+\_\+\+\_\+pthread\+\_\+cond\+\_\+s}, \hyperpage{61}
+  \item {\+\_\+\+\_\+pthread\+\_\+internal\+\_\+list}, \hyperpage{62}
+  \item {\+\_\+\+\_\+pthread\+\_\+mutex\+\_\+s}, \hyperpage{62}
+  \item {\+\_\+\+\_\+pthread\+\_\+rwlock\+\_\+arch\+\_\+t}, 
+		\hyperpage{63}
+  \item {\+\_\+\+\_\+sigset\+\_\+t}, \hyperpage{63}
+
+  \indexspace
+
+  \item {C\+U\+D\+A\+\_\+\+A\+R\+R\+A\+Y3\+D\+\_\+\+D\+E\+S\+C\+R\+I\+P\+T\+O\+R\+\_\+st}, 
+		\hyperpage{67}
+  \item {C\+U\+D\+A\+\_\+\+A\+R\+R\+A\+Y\+\_\+\+D\+E\+S\+C\+R\+I\+P\+T\+O\+R\+\_\+st}, 
+		\hyperpage{67}
+  \item {C\+U\+D\+A\+\_\+\+E\+X\+T\+E\+R\+N\+A\+L\+\_\+\+M\+E\+M\+O\+R\+Y\+\_\+\+B\+U\+F\+F\+E\+R\+\_\+\+D\+E\+S\+C\+\_\+st}, 
+		\hyperpage{67}
+  \item {C\+U\+D\+A\+\_\+\+E\+X\+T\+E\+R\+N\+A\+L\+\_\+\+M\+E\+M\+O\+R\+Y\+\_\+\+H\+A\+N\+D\+L\+E\+\_\+\+D\+E\+S\+C\+\_\+st}, 
+		\hyperpage{68}
+  \item {C\+U\+D\+A\+\_\+\+E\+X\+T\+E\+R\+N\+A\+L\+\_\+\+M\+E\+M\+O\+R\+Y\+\_\+\+M\+I\+P\+M\+A\+P\+P\+E\+D\+\_\+\+A\+R\+R\+A\+Y\+\_\+\+D\+E\+S\+C\+\_\+st}, 
+		\hyperpage{68}
+  \item {C\+U\+D\+A\+\_\+\+E\+X\+T\+E\+R\+N\+A\+L\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+H\+A\+N\+D\+L\+E\+\_\+\+D\+E\+S\+C\+\_\+st}, 
+		\hyperpage{69}
+  \item {C\+U\+D\+A\+\_\+\+E\+X\+T\+E\+R\+N\+A\+L\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+S\+I\+G\+N\+A\+L\+\_\+\+P\+A\+R\+A\+M\+S\+\_\+st}, 
+		\hyperpage{69}
+  \item {C\+U\+D\+A\+\_\+\+E\+X\+T\+E\+R\+N\+A\+L\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+W\+A\+I\+T\+\_\+\+P\+A\+R\+A\+M\+S\+\_\+st}, 
+		\hyperpage{69}
+  \item {C\+U\+D\+A\+\_\+\+H\+O\+S\+T\+\_\+\+N\+O\+D\+E\+\_\+\+P\+A\+R\+A\+M\+S\+\_\+st}, 
+		\hyperpage{70}
+  \item {C\+U\+D\+A\+\_\+\+K\+E\+R\+N\+E\+L\+\_\+\+N\+O\+D\+E\+\_\+\+P\+A\+R\+A\+M\+S\+\_\+st}, 
+		\hyperpage{70}
+  \item {C\+U\+D\+A\+\_\+\+L\+A\+U\+N\+C\+H\+\_\+\+P\+A\+R\+A\+M\+S\+\_\+st}, 
+		\hyperpage{70}
+  \item {C\+U\+D\+A\+\_\+\+M\+E\+M\+C\+P\+Y2\+D\+\_\+st}, 
+		\hyperpage{71}
+  \item {C\+U\+D\+A\+\_\+\+M\+E\+M\+C\+P\+Y3\+D\+\_\+\+P\+E\+E\+R\+\_\+st}, 
+		\hyperpage{71}
+  \item {C\+U\+D\+A\+\_\+\+M\+E\+M\+C\+P\+Y3\+D\+\_\+st}, 
+		\hyperpage{72}
+  \item {C\+U\+D\+A\+\_\+\+M\+E\+M\+S\+E\+T\+\_\+\+N\+O\+D\+E\+\_\+\+P\+A\+R\+A\+M\+S\+\_\+st}, 
+		\hyperpage{72}
+  \item {C\+U\+D\+A\+\_\+\+P\+O\+I\+N\+T\+E\+R\+\_\+\+A\+T\+T\+R\+I\+B\+U\+T\+E\+\_\+\+P2\+P\+\_\+\+T\+O\+K\+E\+N\+S\+\_\+st}, 
+		\hyperpage{73}
+  \item {C\+U\+D\+A\+\_\+\+R\+E\+S\+O\+U\+R\+C\+E\+\_\+\+D\+E\+S\+C\+\_\+st}, 
+		\hyperpage{73}
+  \item {C\+U\+D\+A\+\_\+\+R\+E\+S\+O\+U\+R\+C\+E\+\_\+\+V\+I\+E\+W\+\_\+\+D\+E\+S\+C\+\_\+st}, 
+		\hyperpage{74}
+  \item {C\+U\+D\+A\+\_\+\+T\+E\+X\+T\+U\+R\+E\+\_\+\+D\+E\+S\+C\+\_\+st}, 
+		\hyperpage{74}
+  \item {C\+Udevprop\+\_\+st}, \hyperpage{86}
+  \item {C\+Uipc\+Event\+Handle\+\_\+st}, \hyperpage{86}
+  \item {C\+Uipc\+Mem\+Handle\+\_\+st}, \hyperpage{87}
+  \item {C\+Ustream\+Batch\+Mem\+Op\+Params\+\_\+union}, \hyperpage{87}
+  \item {C\+Ustream\+Batch\+Mem\+Op\+Params\+\_\+union\+::\+C\+Ustream\+Mem\+Op\+Flush\+Remote\+Writes\+Params\+\_\+st}, 
+		\hyperpage{88}
+  \item {C\+Ustream\+Batch\+Mem\+Op\+Params\+\_\+union\+::\+C\+Ustream\+Mem\+Op\+Wait\+Value\+Params\+\_\+st}, 
+		\hyperpage{88}
+  \item {C\+Ustream\+Batch\+Mem\+Op\+Params\+\_\+union\+::\+C\+Ustream\+Mem\+Op\+Write\+Value\+Params\+\_\+st}, 
+		\hyperpage{88}
+  \item {C\+Uuuid\+\_\+st}, \hyperpage{89}
+  \item {char1}, \hyperpage{66}
+  \item {char3}, \hyperpage{66}
+  \item {Color}
+    \subitem {vsfish}, \hyperpage{15}
+  \item {cuda\+Channel\+Format\+Desc}, \hyperpage{74}
+  \item {cuda\+Device\+Prop}, \hyperpage{75}
+  \item {cuda\+Extent}, \hyperpage{77}
+  \item {cuda\+External\+Memory\+Buffer\+Desc}, \hyperpage{77}
+  \item {cuda\+External\+Memory\+Handle\+Desc}, \hyperpage{77}
+  \item {cuda\+External\+Memory\+Mipmapped\+Array\+Desc}, 
+		\hyperpage{78}
+  \item {cuda\+External\+Semaphore\+Handle\+Desc}, \hyperpage{78}
+  \item {cuda\+External\+Semaphore\+Signal\+Params}, \hyperpage{79}
+  \item {cuda\+External\+Semaphore\+Wait\+Params}, \hyperpage{79}
+  \item {cuda\+Func\+Attributes}, \hyperpage{79}
+  \item {cuda\+Host\+Node\+Params}, \hyperpage{80}
+  \item {cuda\+Ipc\+Event\+Handle\+\_\+st}, \hyperpage{80}
+  \item {cuda\+Ipc\+Mem\+Handle\+\_\+st}, \hyperpage{80}
+  \item {cuda\+Kernel\+Node\+Params}, \hyperpage{80}
+  \item {cuda\+Launch\+Params}, \hyperpage{81}
+  \item {cuda\+Memcpy3\+D\+Parms}, \hyperpage{82}
+  \item {cuda\+Memcpy3\+D\+Peer\+Parms}, \hyperpage{82}
+  \item {cuda\+Memset\+Params}, \hyperpage{83}
+  \item {cuda\+Pitched\+Ptr}, \hyperpage{83}
+  \item {cuda\+Pointer\+Attributes}, \hyperpage{84}
+  \item {cuda\+Pos}, \hyperpage{84}
+  \item {cuda\+Resource\+Desc}, \hyperpage{84}
+  \item {cuda\+Resource\+View\+Desc}, \hyperpage{85}
+  \item {cuda\+Texture\+Desc}, \hyperpage{86}
+
+  \indexspace
+
+  \item {Dewarp}
+    \subitem {vsfish\+::\+Dewarp}, \hyperpage{89}
+  \item {dim3}, \hyperpage{91}
+  \item {div\+\_\+t}, \hyperpage{91}
+  \item {double1}, \hyperpage{91}
+  \item {double3}, \hyperpage{92}
+  \item {drand48\+\_\+data}, \hyperpage{92}
+
+  \indexspace
+
+  \item {fd\+\_\+set}, \hyperpage{92}
+  \item {fisheye\+De\+Warp}
+    \subitem {vsfish\+::\+Dewarp}, \hyperpage{89}
+  \item {float1}, \hyperpage{92}
+  \item {float3}, \hyperpage{93}
+
+  \indexspace
+
+  \item {int1}, \hyperpage{93}
+  \item {int3}, \hyperpage{93}
+  \item {itimerspec}, \hyperpage{93}
+
+  \indexspace
+
+  \item {ldiv\+\_\+t}, \hyperpage{94}
+  \item {lldiv\+\_\+t}, \hyperpage{94}
+  \item {long1}, \hyperpage{94}
+  \item {long3}, \hyperpage{95}
+  \item {longlong1}, \hyperpage{95}
+  \item {longlong3}, \hyperpage{95}
+
+  \indexspace
+
+  \item {max\+\_\+align\+\_\+t}, \hyperpage{95}
+
+  \indexspace
+
+  \item {pthread\+\_\+attr\+\_\+t}, \hyperpage{96}
+  \item {pthread\+\_\+barrier\+\_\+t}, \hyperpage{96}
+  \item {pthread\+\_\+barrierattr\+\_\+t}, \hyperpage{96}
+  \item {pthread\+\_\+cond\+\_\+t}, \hyperpage{96}
+  \item {pthread\+\_\+condattr\+\_\+t}, \hyperpage{97}
+  \item {pthread\+\_\+mutex\+\_\+t}, \hyperpage{97}
+  \item {pthread\+\_\+mutexattr\+\_\+t}, \hyperpage{98}
+  \item {pthread\+\_\+rwlock\+\_\+t}, \hyperpage{98}
+  \item {pthread\+\_\+rwlockattr\+\_\+t}, \hyperpage{99}
+
+  \indexspace
+
+  \item {random\+\_\+data}, \hyperpage{99}
+
+  \indexspace
+
+  \item {short1}, \hyperpage{99}
+  \item {short3}, \hyperpage{99}
+  \item {surface$<$ T, dim $>$}, \hyperpage{100}
+  \item {surface$<$ void, dim $>$}, \hyperpage{101}
+  \item {surface\+Reference}, \hyperpage{102}
+
+  \indexspace
+
+  \item {texture$<$ T, tex\+Type, mode $>$}, \hyperpage{103}
+  \item {texture\+Reference}, \hyperpage{104}
+  \item {timespec}, \hyperpage{105}
+  \item {timeval}, \hyperpage{105}
+  \item {timex}, \hyperpage{105}
+  \item {tm}, \hyperpage{106}
+
+  \indexspace
+
+  \item {uchar1}, \hyperpage{107}
+  \item {uchar3}, \hyperpage{107}
+  \item {uint1}, \hyperpage{107}
+  \item {uint3}, \hyperpage{107}
+  \item {ulong1}, \hyperpage{108}
+  \item {ulong3}, \hyperpage{108}
+  \item {ulonglong1}, \hyperpage{108}
+  \item {ulonglong3}, \hyperpage{108}
+  \item {ushort1}, \hyperpage{109}
+  \item {ushort3}, \hyperpage{109}
+
+  \indexspace
+
+  \item {vs\+De\+Warp\+Fisheye}
+    \subitem {vsfish\+::\+Dewarp}, \hyperpage{90}
+  \item {vs\+Fisheye2\+Presp}
+    \subitem {vsfish\+::\+Dewarp}, \hyperpage{90}
+  \item {vsfish}, \hyperpage{15}
+    \subitem {Color}, \hyperpage{15}
+  \item {vsfish\+::\+Dewarp}, \hyperpage{89}
+    \subitem {Dewarp}, \hyperpage{89}
+    \subitem {fisheye\+De\+Warp}, \hyperpage{89}
+    \subitem {vs\+De\+Warp\+Fisheye}, \hyperpage{90}
+    \subitem {vs\+Fisheye2\+Presp}, \hyperpage{90}
+
+  \indexspace
+
+  \item {X\+YZ}, \hyperpage{109}
+
+\end{theindex}

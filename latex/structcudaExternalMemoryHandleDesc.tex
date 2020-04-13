@@ -1,0 +1,31 @@
+\hypertarget{structcudaExternalMemoryHandleDesc}{}\section{cuda\+External\+Memory\+Handle\+Desc Struct Reference}
+\label{structcudaExternalMemoryHandleDesc}\index{cuda\+External\+Memory\+Handle\+Desc@{cuda\+External\+Memory\+Handle\+Desc}}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+enum cuda\+External\+Memory\+Handle\+Type {\bfseries type}\hypertarget{structcudaExternalMemoryHandleDesc_a8d2b65d3b597280eb9be66ee34c7ee52}{}\label{structcudaExternalMemoryHandleDesc_a8d2b65d3b597280eb9be66ee34c7ee52}
+
+\item 
+\begin{tabbing}
+xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=\kill
+union \{\\
+\>int {\bfseries fd}\\
+\>struct \{\\
+\>\>void $\ast$ {\bfseries handle}\\
+\>\>const void $\ast$ {\bfseries name}\\
+\>\} {\bfseries win32}\\
+\} {\bfseries handle}\hypertarget{structcudaExternalMemoryHandleDesc_a9af52765434c5bc13d08e39108cb0c8c}{}\label{structcudaExternalMemoryHandleDesc_a9af52765434c5bc13d08e39108cb0c8c}
+\\
+
+\end{tabbing}\item 
+unsigned long long {\bfseries size}\hypertarget{structcudaExternalMemoryHandleDesc_a362086a22da90ac8fba1ca294e65548e}{}\label{structcudaExternalMemoryHandleDesc_a362086a22da90ac8fba1ca294e65548e}
+
+\item 
+unsigned int {\bfseries flags}\hypertarget{structcudaExternalMemoryHandleDesc_a74412d3d2777ebc856aea0b9158aaafa}{}\label{structcudaExternalMemoryHandleDesc_a74412d3d2777ebc856aea0b9158aaafa}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+cuda\+Warp-\/fisheye.\+cpp\end{DoxyCompactItemize}

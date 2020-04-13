@@ -1,0 +1,28 @@
+\hypertarget{structcudaExternalSemaphoreHandleDesc}{}\section{cuda\+External\+Semaphore\+Handle\+Desc Struct Reference}
+\label{structcudaExternalSemaphoreHandleDesc}\index{cuda\+External\+Semaphore\+Handle\+Desc@{cuda\+External\+Semaphore\+Handle\+Desc}}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+enum cuda\+External\+Semaphore\+Handle\+Type {\bfseries type}\hypertarget{structcudaExternalSemaphoreHandleDesc_ae925b19e386170fb3cccf58cfab0fd9c}{}\label{structcudaExternalSemaphoreHandleDesc_ae925b19e386170fb3cccf58cfab0fd9c}
+
+\item 
+\begin{tabbing}
+xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=\kill
+union \{\\
+\>int {\bfseries fd}\\
+\>struct \{\\
+\>\>void $\ast$ {\bfseries handle}\\
+\>\>const void $\ast$ {\bfseries name}\\
+\>\} {\bfseries win32}\\
+\} {\bfseries handle}\hypertarget{structcudaExternalSemaphoreHandleDesc_a764e242603a043157c8a18961d62fd96}{}\label{structcudaExternalSemaphoreHandleDesc_a764e242603a043157c8a18961d62fd96}
+\\
+
+\end{tabbing}\item 
+unsigned int {\bfseries flags}\hypertarget{structcudaExternalSemaphoreHandleDesc_addc4ddcce38ec7f5582e38fe278783b5}{}\label{structcudaExternalSemaphoreHandleDesc_addc4ddcce38ec7f5582e38fe278783b5}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+cuda\+Warp-\/fisheye.\+cpp\end{DoxyCompactItemize}

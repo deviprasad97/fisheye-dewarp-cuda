@@ -1,0 +1,47 @@
+\hypertarget{structcudaResourceDesc}{}\section{cuda\+Resource\+Desc Struct Reference}
+\label{structcudaResourceDesc}\index{cuda\+Resource\+Desc@{cuda\+Resource\+Desc}}
+
+
+Collaboration diagram for cuda\+Resource\+Desc\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=208pt]{structcudaResourceDesc__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+enum cuda\+Resource\+Type {\bfseries res\+Type}\hypertarget{structcudaResourceDesc_aaac8b3bb1d63bd25d8e9af7ee0b9a580}{}\label{structcudaResourceDesc_aaac8b3bb1d63bd25d8e9af7ee0b9a580}
+
+\item 
+\begin{tabbing}
+xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=xx\=\kill
+union \{\\
+\>struct \{\\
+\>\>cudaArray\_t {\bfseries array}\\
+\>\} {\bfseries array}\\
+\>struct \{\\
+\>\>cudaMipmappedArray\_t {\bfseries mipmap}\\
+\>\} {\bfseries mipmap}\\
+\>struct \{\\
+\>\>void $\ast$ {\bfseries devPtr}\\
+\>\>struct \hyperlink{structcudaChannelFormatDesc}{cudaChannelFormatDesc} {\bfseries desc}\\
+\>\>size\_t {\bfseries sizeInBytes}\\
+\>\} {\bfseries linear}\\
+\>struct \{\\
+\>\>void $\ast$ {\bfseries devPtr}\\
+\>\>struct \hyperlink{structcudaChannelFormatDesc}{cudaChannelFormatDesc} {\bfseries desc}\\
+\>\>size\_t {\bfseries width}\\
+\>\>size\_t {\bfseries height}\\
+\>\>size\_t {\bfseries pitchInBytes}\\
+\>\} {\bfseries pitch2D}\\
+\} {\bfseries res}\hypertarget{structcudaResourceDesc_a5c9931600ee15fe93e0dd09bb2aca440}{}\label{structcudaResourceDesc_a5c9931600ee15fe93e0dd09bb2aca440}
+\\
+
+\end{tabbing}\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+cuda\+Warp-\/fisheye.\+cpp\end{DoxyCompactItemize}
